@@ -5,3 +5,11 @@ This repository is for showing how Git and GitHub work
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deployment
+
+this is used to deploy the things
+
+## Result
+
+this is the result
